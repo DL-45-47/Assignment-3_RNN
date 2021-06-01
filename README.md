@@ -3,8 +3,8 @@
 ### Files :
 * **RNN_EngToHindi.ipynb** - Basic Training RNN model from scratch executable code with Sweep functionality
 * **RNN_EngToHindi_with_Attention.ipynb** - Basic Training RNN model along with attention mechanism from scratch executable code with Sweep functionality
-* **predictions_vanilla.txt** - 
-* **predictions_Attention.txt** - 
+* **predictions_vanilla.txt** - Predictions made by normal RNN over test data.
+* **predictions_Attention.txt** - Predictions made by RNN with attention mechanism over test data.
 * **README.md** - Brief description about project
 
 ### Quick Run :
