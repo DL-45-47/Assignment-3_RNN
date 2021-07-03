@@ -1,5 +1,8 @@
 # Assignment 3 - Recurrent Neural Network
 
+### Report Link :
+https://wandb.ai/dl_45_47/Transliteration_model/reports/Assignment-3-RNN--Vmlldzo3MjMwMDI
+
 ### Files :
 * **RNN_EngToHindi.ipynb** - Basic Training RNN model from scratch executable code with Sweep functionality
 * **RNN_EngToHindi_with_Attention.ipynb** - Basic Training RNN model along with attention mechanism from scratch executable code with Sweep functionality
